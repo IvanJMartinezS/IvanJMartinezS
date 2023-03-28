@@ -7,7 +7,7 @@
 ## 🛠 Technologies and Tools
 
 <p align="left"> 
-  <img alt="PHP" src="https://github.com/IvanJMartinezS/IvanJMartinezS/tree/IvanJMartinezS-test-icons" width="50" height="50">
+  <img alt="PHP" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50" height="50">
   
   
   <a href="https://php.net"> <img alt="PHP" src="https://www.php.net/images/logos/new-php-logo.svg" width="50" height="50">
