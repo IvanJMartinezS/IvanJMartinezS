@@ -48,7 +48,6 @@
 * [Linkedin](https://www.linkedin.com/in/ivanjmartinezs/)
 * [Twiter](https://twitter.com/IvanJMartinezS)
 * [Instagram](https://www.instagram.com/ivanjmartinezs/)
-* [logo-scrum.png](https://postimg.cc/5XvSHWZv)
 
 <a href="https://www.linkedin.com/in/ivanjmartinezs/">
   <img align="left" alt="ivanjmartinezs's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
