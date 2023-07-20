@@ -51,10 +51,6 @@
 
 ## 🔍 Puedes contactarme en
 
-- [LinkedIn](https://www.linkedin.com/in/ivanjmartinezs/)
-- [Twitter](https://twitter.com/IvanJMartinezS)
-- [Instagram](https://www.instagram.com/ivanjmartinezs/)
-
-![Linkedin de IvanJMartinezS](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg){ width=22 height=22 } [LinkedIn](https://www.linkedin.com/in/ivanjmartinezs/)
-![Twitter de IvanJMartinezS](https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg){ width=22 height=22 } [Twitter](https://twitter.com/IvanJMartinezS)
-![Instagram de IvanJMartinezS](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png){ width=22 height=22 } [Instagram](https://www.instagram.com/ivanjmartinezs/)
+- [LinkedIn](https://www.linkedin.com/in/ivanjmartinezs/) <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="30" height="30">
+- [Twitter](https://twitter.com/IvanJMartinezS) <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg)" width="30" height="30">
+- [Instagram](https://www.instagram.com/ivanjmartinezs/) <img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" width="30" height="30">
