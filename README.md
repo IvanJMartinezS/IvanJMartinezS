@@ -52,5 +52,5 @@
 ## 🔍 Puedes contactarme en
 
 - [LinkedIn](https://www.linkedin.com/in/ivanjmartinezs/) <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="30" height="30">
-- [Twitter](https://twitter.com/IvanJMartinezS) <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg)" width="30" height="30">
+- [Twitter](https://twitter.com/IvanJMartinezS) <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="30" height="30">
 - [Instagram](https://www.instagram.com/ivanjmartinezs/) <img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" width="30" height="30">
