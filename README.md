@@ -50,7 +50,7 @@
      
 <div style="display: flex; justify-content: space-around;">
    <div>
-      <img alt="laravel" title="laravel" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmarsvg" width="50" height="50">
+      <img alt="laravel" title="laravel" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="50" height="50">
       <img alt="yii" title="yii" src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original-wordmark.svg" width="50height="50">
    </div>
     <div>
@@ -66,8 +66,8 @@
    <div>
       <img alt="git" title="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50height="50">
       <img alt="github" title="github" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="50" height="50">
-      <img alt="gitlab" title="gitlab" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svgwidth="50" height="50">
-      <img alt="bitbucket" title="bitbucket" src="https://github.com/devicons/devicon/blob/master/icons/bitbuckebitbucket-original-wordmark.svg" width="50" height="50">
+      <img alt="gitlab" title="gitlab" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" width="50" height="50">
+      <img alt="bitbucket" title="bitbucket" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" width="50" height="50">
    </div>
 </div>
 
@@ -92,10 +92,10 @@
 - [Instagram](https://www.instagram.com/ivanjmartinezs/)
 
 <a href="https://www.linkedin.com/in/ivanjmartinezs/">
-  <img align="left" alt="ivanjmartinezs's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="ivanjmartinezs's LinkedIN" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
 </a>
 <a href="https://twitter.com/IvanJMartinezS">
-  <img align="left" alt="IvanJMartinezS Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="IvanJMartinezS Naidu | Twitter" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />
 </a>
 <a href="https://www.instagram.com/ivanjmartinezs/">
   <img align="left" alt="ivanjmartinezs's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
