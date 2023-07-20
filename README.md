@@ -7,7 +7,7 @@
    <h3> Web development </h3>
    <img alt="html5" title="html5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50" height="50">
    <img alt="css3" title="css3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50height="50">
-   <img alt="javascript" title="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-originasvg" width="50" height="50">
+   <img alt="javascript" title="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50">
 </div>
 
 <div align="center">
@@ -23,7 +23,7 @@
            
    <div>
       <img alt="bootstrap" title="bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="50" height="50">
-      <img alt="tailwind" title="tailwind" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcstailwindcss-original-wordmark.svg" width="50" height="50">
+      <img alt="tailwind" title="tailwind" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50" height="50">
    </div>
 </div>
 
