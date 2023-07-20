@@ -1,103 +1,60 @@
-### Hi, I´m Iván J. Martínez S. 👋💻👨🏻‍💻
+# Hi, I'm Iván J. Martínez S. 👋💻👨🏻‍💻
 
 ![portadas](https://user-images.githubusercontent.com/81108592/195698633-60de1dbb-8358-4b08-9c8f-c36ed90cd7a1.jpg)
 
-## 🛠 Technologies and Tools
-<div align="center">
-   <h3> Web development </h3>
-   <img alt="html5" title="html5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50" height="50">
-   <img alt="css3" title="css3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50height="50">
-   <img alt="javascript" title="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50">
-</div>
+## 🛠 Tecnologías y Herramientas
 
-<div align="center">
-   <h3> Fronted development </h3>
-</div>
-     
-<div style="display: flex; justify-content: space-around;">
-   <div>
-      <img alt="vue" title="vue" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" width="50" height="50">
-      <img alt="react" title="react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50" height="50">
-      <img alt="typescript" title="typescript" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50" height="50">
-   </div>
-           
-   <div>
-      <img alt="bootstrap" title="bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="50" height="50">
-      <img alt="tailwind" title="tailwind" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50" height="50">
-   </div>
-</div>
+### Desarrollo web
 
-<div align="center">
-   <h3> Backend development </h3>
-</div>
+- HTML5 ![html5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg){ width=50 height=50 }
+- CSS3 ![css3](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg){ width=50 height=50 }
+- JavaScript ![javascript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg){ width=50 height=50 }
 
-<div style="display: flex; justify-content: space-around;">
-   <div>
-      <img alt="php" title="php" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50height="50">
-      <img alt="mysql" title="mysql" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50">
-   </div>
-           
-   <div>
-      <img alt="postman" title="postman" src="https://i.postimg.cc/3x8ZXdMy/logo-postman.png" width="50" height="50">
-      <img alt="pentaho" title="pentaho" src="https://i.postimg.cc/N01fQfM4/logo-pentaho.png" width="50" height="50">
-      <img alt="jmeter" title="jmeter" src="https://i.postimg.cc/P5SQ2ThS/logo-jmeter.png" width="50" height="50">
-   </div>
-</div>
+### Desarrollo Frontend
 
-<div align="center">
-   <h3> Frameworks </h3>
-</div>
-     
-<div style="display: flex; justify-content: space-around;">
-   <div>
-      <img alt="laravel" title="laravel" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="50" height="50">
-      <img alt="yii" title="yii" src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original-wordmark.svg" width="50height="50">
-   </div>
-    <div>
-      <img alt="nextjs" title="nextjs" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width="50" height="50">
-   </div>
-</div>
+- Vue.js ![vue](https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg){ width=50 height=50 }
+- React ![react](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg){ width=50 height=50 }
+- Tailwind CSS ![tailwind](https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg){ width=50 height=50 }
+- Bootstrap ![bootstrap](https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg){ width=50 height=50 }
 
-<div align="center">
-    <h3> Version control </h3>
-</div>
-     
-<div style="display: flex; justify-content: space-around;">
-   <div>
-      <img alt="git" title="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50height="50">
-      <img alt="github" title="github" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="50" height="50">
-      <img alt="gitlab" title="gitlab" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" width="50" height="50">
-      <img alt="bitbucket" title="bitbucket" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" width="50" height="50">
-   </div>
-</div>
+### Desarrollo Backend
 
-<div align="center">
-   <h3> Tools </h3>
-</div>
-     
-<div style="display: flex; justify-content: space-around;">
-   <img alt="scrum" title="scrum" src="https://i.postimg.cc/3W57pX4v/logo-scrum.png" width="50" height="50">
-   <img alt="vscode" title="vscode" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="50" height="50">
-      <img alt="kanban" title="kanban" src="https://i.postimg.cc/V6G1DSvK/logo-kanban.jpg" width="50" height="50">
-   <img alt="trello" title="trello" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" width="50" height="50">
-   <img alt="slack" title="slack" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" width="50" height="50">
-   <img alt="jira" title="jira" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" width="50height="50">
-   <img alt="composer" title="composer" src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" width="50" height="50">
-   <img alt="firebase" title="firebase" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="50" height="50">
-</div>
+- PHP ![php](https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg){ width=50 height=50 }
+- MySQL ![mysql](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg){ width=50 height=50 }
+- Postman ![postman](https://i.postimg.cc/3x8ZXdMy/logo-postman.png){ width=50 height=50 }
+- Pentaho ![pentaho](https://i.postimg.cc/N01fQfM4/logo-pentaho.png){ width=50 height=50 }
+- JMeter ![jmeter](https://i.postimg.cc/P5SQ2ThS/logo-jmeter.png){ width=50 height=50 }
 
-## 🔍 You can contact me
+### Frameworks
 
-- [Linkedin](https://www.linkedin.com/in/ivanjmartinezs/)
-- [Twiter](https://twitter.com/IvanJMartinezS)
+- Laravel ![laravel](https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg){ width=50 height=50 }
+- Yii ![yii](https://github.com/devicons/devicon/blob/master/icons/yii/yii-original-wordmark.svg){ width=50 height=50 }
+- Next.js ![nextjs](https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg){ width=50 height=50 }
+
+### Control de Versiones
+
+- Git ![git](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg){ width=50 height=50 }
+- GitHub ![github](https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg){ width=50 height=50 }
+- GitLab ![gitlab](https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg){ width=50 height=50 }
+- Bitbucket ![bitbucket](https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg){ width=50 height=50 }
+
+### Herramientas
+
+- Scrum ![scrum](https://i.postimg.cc/3W57pX4v/logo-scrum.png){ width=50 height=50 }
+- Visual Studio Code ![vscode](https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg){ width=50 height=50 }
+- Kanban ![kanban](https://i.postimg.cc/V6G1DSvK/logo-kanban.jpg){ width=50 height=50 }
+- Trello ![trello](https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg){ width=50 height=50 }
+- Slack ![slack](https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg){ width=50 height=50 }
+- Jira ![jira](https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg){ width=50 height=50 }
+- Composer ![composer](https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg){ width=50 height=50 }
+- Firebase ![firebase](https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg){ width=50 height=50 }
+
+## 🔍 Puedes contactarme en
+
+- [LinkedIn](https://www.linkedin.com/in/ivanjmartinezs/)
+- [Twitter](https://twitter.com/IvanJMartinezS)
 - [Instagram](https://www.instagram.com/ivanjmartinezs/)
 
-<a href="https://www.linkedin.com/in/ivanjmartinezs/">
-  <img align="left" alt="ivanjmartinezs's LinkedIN" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
-</a>
-<a href="https://twitter.com/IvanJMartinezS">
-  <img align="left" alt="IvanJMartinezS Naidu | Twitter" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />
-</a>
-<a href="https://www.instagram.com/ivanjmartinezs/">
-  <img align="left" alt="ivanjmartinezs's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
+![Linkedin de IvanJMartinezS](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg){ width=22 height=22 } [LinkedIn](https://www.linkedin.com/in/ivanjmartinezs/)
+![Twitter de IvanJMartinezS](https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg){ width=22 height=22 } [Twitter](https://twitter.com/IvanJMartinezS)
+![Instagram de IvanJMartinezS](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png){ width=22 height=22 } [Instagram](https://www.instagram.com/ivanjmartinezs/)
