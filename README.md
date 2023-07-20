@@ -18,11 +18,11 @@
    <div>
       <img alt="vue" title="vue" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" width="50" height="50">
       <img alt="react" title="react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50" height="50">
-      <img alt="typescript" title="typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescriptypescript-original.svg" width="50" height="50">
+      <img alt="typescript" title="typescript" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50" height="50">
    </div>
            
    <div>
-      <img alt="bootstrap" title="bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrabootstrap-original-wordmark.svg" width="50" height="50">
+      <img alt="bootstrap" title="bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="50" height="50">
       <img alt="tailwind" title="tailwind" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcstailwindcss-original-wordmark.svg" width="50" height="50">
    </div>
 </div>
@@ -85,6 +85,7 @@
    <img alt="composer" title="composer" src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" width="50" height="50">
    <img alt="firebase" title="firebase" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="50" height="50">
 </div>
+
 ## 🔍 You can contact me
 
 - [Linkedin](https://www.linkedin.com/in/ivanjmartinezs/)
