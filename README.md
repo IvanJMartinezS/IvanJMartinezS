@@ -12,7 +12,6 @@
 
 ### Desarrollo Frontend
 
-- Vue.js <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" width="30" height="30">
 - React <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="30" height="30">
 - Tailwind CSS <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="30" height="30">
 - Bootstrap <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="30" height="30">
