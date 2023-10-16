@@ -1,4 +1,4 @@
-# Hi, I'm Iván J. Martínez S. 👋💻👨🏻‍💻
+# Hi, I'm Iván J. Martínez S.  👋💻👨🏻‍💻
 
 ![portadas](https://user-images.githubusercontent.com/81108592/195698633-60de1dbb-8358-4b08-9c8f-c36ed90cd7a1.jpg)
 
