@@ -10,7 +10,7 @@
 - React <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="30" height="30">
 - Tailwind CSS <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="30" height="30">
 - Bootstrap <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="30" height="30">
-
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div>
 ### Desarrollo Backend
 
 - PHP <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="30" height="30">
@@ -18,7 +18,6 @@
 - Postman <img src="https://i.postimg.cc/3x8ZXdMy/logo-postman.png" width="30" height="30">
 - Pentaho <img src="https://i.postimg.cc/N01fQfM4/logo-pentaho.png" width="30" height="30">
 - JMeter <img src="https://i.postimg.cc/P5SQ2ThS/logo-jmeter.png" width="30" height="30">
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="30" height="30"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="30" height="30">
 
 ### Frameworks
 
