@@ -7,11 +7,28 @@
 
 ### Desarrollo Frontend
 
-<div style="display: flex; align-items: flex-start;">
-- React <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-- Tailwind CSS <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" width="30" height="30">
-- Bootstrap <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" width="30" height="30">
-</div>
+#### Frameworks y Librerías
+
+- **React.js**  
+  ![React](https://techstack-generator.vercel.app/react-icon.svg)  
+  Desarrolla interfaces de usuario interactivas y modernas con React.
+
+- **Tailwind CSS**  
+  ![Tailwind CSS](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png)  
+  Utilizo Tailwind CSS para crear interfaces responsivas y de alto rendimiento con clases utilitarias.
+
+#### Estilos y Diseño
+
+- **Bootstrap**  
+  ![Bootstrap](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png)  
+  Framework CSS utilizado para agilizar el desarrollo de páginas responsivas y de diseño fluido.
+
+#### Herramientas y Otros
+
+- **Visual Studio Code**  
+  ![VS Code](https://upload.wikimedia.org/wikipedia/commons/4/4f/Visual_Studio_Code_1.35_icon.png)  
+  Mi editor preferido para desarrollo frontend, con muchas extensiones útiles.
+
 ### Desarrollo Backend
 
 - PHP <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="30" height="30">
