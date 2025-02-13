@@ -7,10 +7,11 @@
 
 ### Desarrollo Frontend
 
-- React <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="30" height="30">
-- Tailwind CSS <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="30" height="30">
-- Bootstrap <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="30" height="30">
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div>
+<div style="display: flex; align-items: flex-start;">
+- React <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+- Tailwind CSS <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" width="30" height="30">
+- Bootstrap <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" width="30" height="30">
+</div>
 ### Desarrollo Backend
 
 - PHP <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="30" height="30">
