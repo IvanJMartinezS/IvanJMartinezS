@@ -1,15 +1,9 @@
 # Hi, I'm Iván J. Martínez S.  👋💻👨🏻‍💻
-# I´m Software Engineer
+# I´m Software Engineer / Full Stack Developer
 
 ![portadas](https://user-images.githubusercontent.com/81108592/195698633-60de1dbb-8358-4b08-9c8f-c36ed90cd7a1.jpg)
 
 ## 🛠 Tecnologías y Herramientas
-
-### Desarrollo web
-
-- HTML5 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="30" height="30">
-- CSS3 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="30" height="30">
-- JavaScript <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" height="30">
 
 ### Desarrollo Frontend
 
@@ -24,6 +18,7 @@
 - Postman <img src="https://i.postimg.cc/3x8ZXdMy/logo-postman.png" width="30" height="30">
 - Pentaho <img src="https://i.postimg.cc/N01fQfM4/logo-pentaho.png" width="30" height="30">
 - JMeter <img src="https://i.postimg.cc/P5SQ2ThS/logo-jmeter.png" width="30" height="30">
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="30" height="30"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="30" height="30">
 
 ### Frameworks
 
